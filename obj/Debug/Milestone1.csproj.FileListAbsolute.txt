@@ -1,0 +1,7 @@
+C:\Users\motla\OneDrive\Desktop\PR181\Milestone1\bin\Debug\Milestone1.exe.config
+C:\Users\motla\OneDrive\Desktop\PR181\Milestone1\bin\Debug\Milestone1.exe
+C:\Users\motla\OneDrive\Desktop\PR181\Milestone1\bin\Debug\Milestone1.pdb
+C:\Users\motla\OneDrive\Desktop\PR181\Milestone1\obj\Debug\Milestone1.csproj.AssemblyReference.cache
+C:\Users\motla\OneDrive\Desktop\PR181\Milestone1\obj\Debug\Milestone1.csproj.CoreCompileInputs.cache
+C:\Users\motla\OneDrive\Desktop\PR181\Milestone1\obj\Debug\Milestone1.exe
+C:\Users\motla\OneDrive\Desktop\PR181\Milestone1\obj\Debug\Milestone1.pdb
